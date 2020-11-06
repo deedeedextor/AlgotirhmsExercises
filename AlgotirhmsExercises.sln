@@ -23,13 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfDigits", "SumOfDigits\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecimalToBinary", "DecimalToBinary\DecimalToBinary.csproj", "{D86C140E-72D4-41B4-BC01-D844ABA7185E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryToDecimal", "BinaryToDecimal\BinaryToDecimal.csproj", "{CD174EE8-5BEE-4657-A426-68ED54EBE03F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryToDecimal", "BinaryToDecimal\BinaryToDecimal.csproj", "{CD174EE8-5BEE-4657-A426-68ED54EBE03F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterOccurrencesInAString", "CharacterOccurrencesInAString\CharacterOccurrencesInAString.csproj", "{D5B7D731-130B-4A5E-932D-C41AE4B86A8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharacterOccurrencesInAString", "CharacterOccurrencesInAString\CharacterOccurrencesInAString.csproj", "{D5B7D731-130B-4A5E-932D-C41AE4B86A8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseAString", "ReverseAString\ReverseAString.csproj", "{BD2ACE73-0D37-4114-9678-D89B36924A92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseAString", "ReverseAString\ReverseAString.csproj", "{BD2ACE73-0D37-4114-9678-D89B36924A92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseEachWordInAString", "ReverseEachWordInAString\ReverseEachWordInAString.csproj", "{BA13BBCA-75FA-4299-A2B3-24CAB3E02951}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseEachWordInAString", "ReverseEachWordInAString\ReverseEachWordInAString.csproj", "{BA13BBCA-75FA-4299-A2B3-24CAB3E02951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicateCharacters", "RemoveDuplicateCharacters\RemoveDuplicateCharacters.csproj", "{D4F3316B-6ECB-4846-95DA-30CFE844913B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{BA13BBCA-75FA-4299-A2B3-24CAB3E02951}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA13BBCA-75FA-4299-A2B3-24CAB3E02951}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA13BBCA-75FA-4299-A2B3-24CAB3E02951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F3316B-6ECB-4846-95DA-30CFE844913B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F3316B-6ECB-4846-95DA-30CFE844913B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F3316B-6ECB-4846-95DA-30CFE844913B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F3316B-6ECB-4846-95DA-30CFE844913B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
