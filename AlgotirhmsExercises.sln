@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseEachWordInAString", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicateCharacters", "RemoveDuplicateCharacters\RemoveDuplicateCharacters.csproj", "{D4F3316B-6ECB-4846-95DA-30CFE844913B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAllSubstrings", "FindAllSubstrings\FindAllSubstrings.csproj", "{F08BE88F-F10B-4D54-9FBC-A7CCAABEE9DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{D4F3316B-6ECB-4846-95DA-30CFE844913B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4F3316B-6ECB-4846-95DA-30CFE844913B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4F3316B-6ECB-4846-95DA-30CFE844913B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F08BE88F-F10B-4D54-9FBC-A7CCAABEE9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08BE88F-F10B-4D54-9FBC-A7CCAABEE9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08BE88F-F10B-4D54-9FBC-A7CCAABEE9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08BE88F-F10B-4D54-9FBC-A7CCAABEE9DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
