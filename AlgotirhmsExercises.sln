@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCount", "WordCount\WordCount.csproj", "{86616434-DF39-4C5E-82A4-1F67A92244F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{15F7F0ED-DC2F-4559-93FD-3549BBB9E659}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{86616434-DF39-4C5E-82A4-1F67A92244F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86616434-DF39-4C5E-82A4-1F67A92244F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86616434-DF39-4C5E-82A4-1F67A92244F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F7F0ED-DC2F-4559-93FD-3549BBB9E659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F7F0ED-DC2F-4559-93FD-3549BBB9E659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F7F0ED-DC2F-4559-93FD-3549BBB9E659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F7F0ED-DC2F-4559-93FD-3549BBB9E659}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
