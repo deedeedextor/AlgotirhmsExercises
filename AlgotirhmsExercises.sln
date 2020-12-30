@@ -43,17 +43,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RightLeftCircularRotationOf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngleBetweenHourAndMinutesHands", "AngleBetweenHourAndMinutesHands\AngleBetweenHourAndMinutesHands.csproj", "{70F0B3B1-F8C1-4084-89A8-EB5CF347B75A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagrams.csproj", "{714CEC17-0EBE-42BC-BD02-3BEBF30B7AFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anagrams", "Anagrams\Anagrams.csproj", "{714CEC17-0EBE-42BC-BD02-3BEBF30B7AFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCount", "WordCount\WordCount.csproj", "{86616434-DF39-4C5E-82A4-1F67A92244F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordCount", "WordCount\WordCount.csproj", "{86616434-DF39-4C5E-82A4-1F67A92244F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{15F7F0ED-DC2F-4559-93FD-3549BBB9E659}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{15F7F0ED-DC2F-4559-93FD-3549BBB9E659}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElementInAnArray", "MajorityElementInAnArray\MajorityElementInAnArray.csproj", "{39D7B4B3-E944-4704-A283-F72DD4581A39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MajorityElementInAnArray", "MajorityElementInAnArray\MajorityElementInAnArray.csproj", "{39D7B4B3-E944-4704-A283-F72DD4581A39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArrays", "MergeSortedArrays\MergeSortedArrays.csproj", "{25056E39-5451-48E1-8D41-C17FB4D07FB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSortedArrays", "MergeSortedArrays\MergeSortedArrays.csproj", "{25056E39-5451-48E1-8D41-C17FB4D07FB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapMinAndMaxElementsInAnArray", "SwapMinAndMaxElementsInAnArray\SwapMinAndMaxElementsInAnArray.csproj", "{924707C0-2690-45B7-931F-1E0950FCB60C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapMinAndMaxElementsInAnArray", "SwapMinAndMaxElementsInAnArray\SwapMinAndMaxElementsInAnArray.csproj", "{924707C0-2690-45B7-931F-1E0950FCB60C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberInCharacters", "NumberInCharacters\NumberInCharacters.csproj", "{E6FA0D52-4996-4F15-BDF7-AF9EAF27CEB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{924707C0-2690-45B7-931F-1E0950FCB60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{924707C0-2690-45B7-931F-1E0950FCB60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{924707C0-2690-45B7-931F-1E0950FCB60C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6FA0D52-4996-4F15-BDF7-AF9EAF27CEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FA0D52-4996-4F15-BDF7-AF9EAF27CEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FA0D52-4996-4F15-BDF7-AF9EAF27CEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FA0D52-4996-4F15-BDF7-AF9EAF27CEB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
