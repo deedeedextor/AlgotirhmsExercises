@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSortedArrays", "MergeS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapMinAndMaxElementsInAnArray", "SwapMinAndMaxElementsInAnArray\SwapMinAndMaxElementsInAnArray.csproj", "{924707C0-2690-45B7-931F-1E0950FCB60C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberInCharacters", "NumberInCharacters\NumberInCharacters.csproj", "{E6FA0D52-4996-4F15-BDF7-AF9EAF27CEB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberInCharacters", "NumberInCharacters\NumberInCharacters.csproj", "{E6FA0D52-4996-4F15-BDF7-AF9EAF27CEB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnRemainder", "ReturnRemainder\ReturnRemainder.csproj", "{9E5A541F-0152-403B-8228-04C92FDB0D51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{E6FA0D52-4996-4F15-BDF7-AF9EAF27CEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6FA0D52-4996-4F15-BDF7-AF9EAF27CEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6FA0D52-4996-4F15-BDF7-AF9EAF27CEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E5A541F-0152-403B-8228-04C92FDB0D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5A541F-0152-403B-8228-04C92FDB0D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5A541F-0152-403B-8228-04C92FDB0D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5A541F-0152-403B-8228-04C92FDB0D51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
