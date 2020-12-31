@@ -7,7 +7,7 @@ namespace ReverseAString
     {
         static void Main(string[] args)
         {
-            ReverseAStringUsingBuildinMethod("Welcome to my world");
+            ReverseAStringUsingBuildingMethod("Welcome to my world");
             ReverseAStringUsingForLoop("Welcome to my world");
 
         }
@@ -24,7 +24,7 @@ namespace ReverseAString
             Console.WriteLine(reversedString);
         }
 
-        private static void ReverseAStringUsingBuildinMethod(string str)
+        private static void ReverseAStringUsingBuildingMethod(string str)
         {
             char[] charString = str.ToCharArray();
 
